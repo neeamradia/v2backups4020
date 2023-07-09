@@ -1,2 +1,4 @@
 .env
 secrets.conf
+/home/pi/printer_data/config/adxl_results
+/home/pi/printer_data/config/scripts
